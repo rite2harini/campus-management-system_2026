@@ -1,28 +1,28 @@
 # =========================================
-# CHECKPOINT 2: STORE MULTIPLE STUDENTS
+# CHECKPOINT 3: FUNCTIONS UPGRADE
 # =========================================
 
 #  OBJECTIVE:
-# Store multiple students in a system
+# Convert repeated code into functions
 
 # YOU WILL LEARN:
-# - Lists
-# - Adding items
-# - Loop thinking (basic)
+# - Functions
+# - Code reuse
+# - Clean structure
 
 #  TASK:
-# 1. Create an empty list called students
-# 2. Ask user to enter 3 student names
-# 3. Add them to the list
-# 4. Display all students at the end
+# 1. Create function add_student()
+# 2. Create function view_students()
+# 3. Inside functions, handle:
+#    - Adding student to list
+#    - Displaying students
 
-# HINTS:
-# students = []
-# students.append(name)
+#  HINTS:
+# def add_student():
+# def view_students():
 
-# RULES:
-# - No functions
-# - No dictionaries yet
+#  RULES:
+# - No classes
+# - No file handling yet
 
-print("Checkpoint 2 - Build student list ")
-#write the code below 
+print("Checkpoint 3 - Use functions ")
