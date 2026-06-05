@@ -22,5 +22,5 @@ you will:
 
 ---
 
-## 🚀 Final Goal:
+##  Final Goal:
 A complete software system built by YOU.
