@@ -21,4 +21,18 @@
 
 # BONUS CHALLENGE 4:
 # Why are functions better than writing everything in one block?
+#  BONUS CHALLENGE 1:
+# Add option:
+# 4. Search Student
+
+#  BONUS CHALLENGE 2:
+# Add option:
+# 5. Delete Student
+
+#  BONUS CHALLENGE 3:
+# If user enters wrong option,
+# show "Invalid choice" and repeat menu
+
+#  BONUS CHALLENGE 4 (REAL APP THINKING):
+# How does Instagram or WhatsApp use similar menu logic?
 print("Checkpoint 3 - Functions")
