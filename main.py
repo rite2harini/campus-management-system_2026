@@ -1,22 +1,31 @@
-# =========================================
-# CAMPUS MANAGEMENT SYSTEM - FINAL BUILD
-# =========================================
+#  CAMPUS MANAGEMENT SYSTEM ROADMAP
 
-#  OBJECTIVE:
-# Combine everything you learned into ONE system
+## FINAL GOAL:
+Build a complete system like real software used in schools/colleges.
 
-# YOU WILL USE:
-# - Lists
-# - Functions
-# - Loops
-# - Conditionals
+---
 
-#  FINAL TASK:
-# Build a complete student management system:
-# - Add students
-# - View students
-# - Search students (optional challenge)
+## LEARNING PATH:
 
-#  THIS IS YOUR FINAL PROJECT
+### STEP 1:
+Basic input/output
 
-print("Welcome to Campus Management System 🚀")
+### STEP 2:
+Store multiple students using lists
+
+### STEP 3:
+Convert logic into functions
+
+### STEP 4:
+Build interactive menu system
+
+### STEP 5 (later):
+Add marks, attendance, courses
+
+### STEP 6 (advanced):
+Convert into OOP system
+
+---
+
+## 🚀 OUTCOME:
+You will build a real working software system step-by-step.
