@@ -1,15 +1,33 @@
 # =========================================
-# CHECKPOINT 4: MENU SYSTEM
+# CHECKPOINT 4: MENU SYSTEM (REAL APP)
 # =========================================
 
-#  GOAL:
-# Build interactive system
+#  OBJECTIVE:
+# Build interactive system like real software
 
-# TASKS:
-# 1. Create menu using while loop
-# 2. Add options:
-#    - Add student
-#    - View students
-#    - Exit
+#  YOU WILL LEARN:
+# - while loop
+# - program flow
+# - menus
 
-print("Checkpoint 4 - Menu System")
+#  TASK:
+# Build a menu like this:
+
+# 1. Add Student
+# 2. View Students
+# 3. Exit
+
+# When user selects option:
+# - 1 → Add student
+# - 2 → Show all students
+# - 3 → Exit program
+
+#  HINTS:
+# while True:
+# if choice == "1":
+
+#  RULES:
+# - Keep code simple
+# - No file handling yet
+
+print("Checkpoint 4 - Build menu system 👇")
