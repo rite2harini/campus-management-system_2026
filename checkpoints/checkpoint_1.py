@@ -1,16 +1,29 @@
 # =========================================
-# CHECKPOINT 1: BASIC SYSTEM START
+# CHECKPOINT 1: START YOUR FIRST SYSTEM
 # =========================================
 
-#  GOAL:
-# Understand basic Python flow
+#  OBJECTIVE:
+# Build your first simple student system interaction.
 
-# TASKS:
-# 1. Print welcome message
-# 2. Take student name input
-# 3. Display greeting
+#  YOU WILL LEARN:
+# - input()
+# - print()
+# - variables
 
-# RULE:
-# No functions, no lists yet
+#  TASK:
+# 1. Ask student name
+# 2. Ask student age
+# 3. Print a welcome message like:
+#    "Welcome Arun! You are 18 years old."
 
-print("Checkpoint 1 - Start Here")
+# HINTS:
+# - Use input() to take data
+# - Store values in variables
+# - Use + or f-strings for output
+
+#  RULES:
+# - Do NOT use loops
+# - Do NOT use functions
+
+#print("Checkpoint 1 - Start coding below ")
+
