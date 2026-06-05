@@ -27,5 +27,5 @@ Convert into OOP system
 
 ---
 
-## 🚀 OUTCOME:
+##  OUTCOME:
 You will build a real working software system step-by-step.
