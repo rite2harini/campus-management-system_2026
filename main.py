@@ -1,20 +1,22 @@
 # =========================================
-# CAMPUS MANAGEMENT SYSTEM - MAIN FILE
+# CAMPUS MANAGEMENT SYSTEM - FINAL BUILD
 # =========================================
 
-# This is the starting point of your project.
+#  OBJECTIVE:
+# Combine everything you learned into ONE system
 
-# You will slowly evolve this file into a full system.
+# YOU WILL USE:
+# - Lists
+# - Functions
+# - Loops
+# - Conditionals
 
-# FEATURES YOU WILL BUILD:
-# - Add Students
-# - Manage Courses
-# - Track Attendance
-# - Store Marks
-# - Generate Reports
+#  FINAL TASK:
+# Build a complete student management system:
+# - Add students
+# - View students
+# - Search students (optional challenge)
 
-#  RULE:
-# Do NOT try to build everything at once.
-# Follow checkpoints step-by-step.
+#  THIS IS YOUR FINAL PROJECT
 
-print("Welcome to Campus Management System")
+print("Welcome to Campus Management System 🚀")
