@@ -1,31 +1,33 @@
-#  CAMPUS MANAGEMENT SYSTEM ROADMAP
+# =========================================
+# CAMPUS MANAGEMENT SYSTEM
+# =========================================
 
-## FINAL GOAL:
-Build a complete system like real software used in schools/colleges.
+#  FINAL PROJECT FILE
+#
+# This file will contain the complete version
+# of your Campus Management System.
+#
+# Before working on this file, complete:
+#  checkpoint_1.py
+#  checkpoint_2.py
+#  checkpoint_3.py
+#  checkpoint_4.py
+#
+# Once all checkpoints are complete,
+# combine your knowledge here and build
+# one complete application.
+#
+# Future Features:
+# - Add Student
+# - View Students
+# - Search Student
+# - Delete Student
+# - Manage Courses
+# - Attendance Tracking
+# - Marks Management
+# - Reports
+#Do NOT start coding here immediately.
+# Complete checkpoints first.
 
----
-
-## LEARNING PATH:
-
-### STEP 1:
-Basic input/output
-
-### STEP 2:
-Store multiple students using lists
-
-### STEP 3:
-Convert logic into functions
-
-### STEP 4:
-Build interactive menu system
-
-### STEP 5 (later):
-Add marks, attendance, courses
-
-### STEP 6 (advanced):
-Convert into OOP system
-
----
-
-##  OUTCOME:
-You will build a real working software system step-by-step.
+print("Campus Management System")
+print("Complete all checkpoints before building the final system.")
